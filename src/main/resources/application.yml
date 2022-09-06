@@ -1,0 +1,11 @@
+# spring:
+#   datasource:
+#     username: root
+#     password: Khoapro1711
+#     url: jdbc:mysql://127.0.0.1:3306/Myconnection
+#     driver-class-name: com.mysql.cj.jdbc.Driver
+#   jpa:
+#     show-sql: true
+#     hibernate:
+#       ddl-auto: update
+#     properties.hibernate.dialect: org.hibernate.dialect.MySQL5Dialect
